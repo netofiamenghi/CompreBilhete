@@ -1,0 +1,3 @@
+<?php
+const FRONT_END_KEY = "6LcWAr8UAAAAAHNpBOF5wogtLValQXC-KyTUsQGJ";
+const BACK_END_KEY = "6LcWAr8UAAAAADnZm3JcvzYOqGAmuupaf2lzewaC";

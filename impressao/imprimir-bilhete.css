@@ -1,0 +1,42 @@
+fieldset {
+    width: 700px;
+    margin: 10px auto;
+    color: #444;
+    border: 5px solid #ccc;
+    font-family: helvetica;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bilhete {
+    font-size: 24px;
+}
+
+p.sub-titulo {
+    font-size: 20px;
+}
+
+.direita {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+#logo {
+    width: 200px;
+    float: left;
+}
+
+#qrcode {
+    width: 130px;
+    float: right;
+}
